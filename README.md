@@ -50,7 +50,8 @@ The dataset was processed using **Pivot Tables**, **Charts**, and **Conditional 
 
 **Here is a visualization of product Line performance:**
 
-![Best Selling Product Line](images/Best_Selling_ProductLine.jpg)
+![Best Selling Product Line](https://raw.githubusercontent.com/FIRSTMAN96/https://github.com/FIRSTMAN96/supermarket-sales-analysis/tree/main/main/images/Best_Selling_ProductLine.jpg)
+
 
 
 ---
