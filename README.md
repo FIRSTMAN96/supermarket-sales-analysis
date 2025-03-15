@@ -82,7 +82,7 @@ The dataset was processed using **Pivot Tables**, **Charts**, and **Conditional 
 - **GitHub**: Project documentation & sharing  
 
 ## 📸 Screenshots  
-(Upload screenshots of Excel analysis and add here ![Dashboard](https://github.com/user-attachments/assets/f3e4e661-9a4b-4701-ab1e-65daa937d13f)
+(Upload screenshots of Excel analysis ![Dashboard](https://github.com/user-attachments/assets/f3e4e661-9a4b-4701-ab1e-65daa937d13f)
 )  
 
 ## 📩 Contact  
