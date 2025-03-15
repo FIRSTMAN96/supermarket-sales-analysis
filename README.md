@@ -47,6 +47,11 @@ The dataset was processed using **Pivot Tables**, **Charts**, and **Conditional 
 ✔ **All product categories have balanced sales**, suggesting diversified customer interests.
 ✔ **Health & Beauty ranks lowest**, which may indicate a need for better marketing.
 ✔ **Business Strategy:** Introduce targeted promotions for lower-performing categories.
+
+**Here is a visualization of product Line performance:**
+
+![Product Line Chart](![Best_Selling_ProductLine](https://github.com/user-attachments/assets/8d0ea4ff-5134-4b16-904b-a8591c3ecd72)
+)
 ---
 ---
 ## 📍 **Branch Performance**
