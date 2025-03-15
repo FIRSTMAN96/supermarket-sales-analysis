@@ -50,8 +50,8 @@ The dataset was processed using **Pivot Tables**, **Charts**, and **Conditional 
 
 **Here is a visualization of product Line performance:**
 
-![Product Line Chart](![Best_Selling_ProductLine](https://github.com/user-attachments/assets/8d0ea4ff-5134-4b16-904b-a8591c3ecd72)
-)
+![Best_Selling_ProductLine](https://github.com/user-attachments/assets/0c02d888-a422-4146-886f-90f37dad8203)
+
 ---
 ---
 ## 📍 **Branch Performance**
