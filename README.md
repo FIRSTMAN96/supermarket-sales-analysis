@@ -52,7 +52,6 @@ The dataset was processed using **Pivot Tables**, **Charts**, and **Conditional 
 
 ![Best Selling Product Line](images/Best_Selling_ProductLine.jpg)
 
-
 ---
 ---
 ## 📍 **Branch Performance**
@@ -60,13 +59,19 @@ The dataset was processed using **Pivot Tables**, **Charts**, and **Conditional 
 ✔ **Branch C outperforms others**, leading with **$110,568.71** in sales.
 ✔ **Branches A and B have nearly identical performance**, suggesting similar customer demand.
 ✔ **Business Strategy:** Understanding why Branch C performs better can help replicate success across all locations.
+
+**Here is a visualization of Branch performance:**
+![Branch Performance](images/Sales_Per_Branch.jpg)
 ---
 ---
 ## 📅 **Peak Hours Analysis**
 ### ⏰ **Key Insights:**
 ✔ **Peak Hours:** 07 PM, 01 PM, and 10 AM see the highest sales volumes.
 ✔ **Low Traffic Hours:** 08 PM has the lowest recorded sales.
-✔ **Business Strategy:** Scheduling promotional campaigns or staffing optimizations during peak hours can improve efficiency.
+✔ **Business Strategy:** Scheduling promotional campaigns or staffing optimizations during peak hours can improve 
+    efficiency.
+    **Here is a visualization of Peak Hours analysis:**
+![Peak Hours](images/Peak_Hours.jpg)
 ---
 ## 💳 **Payment Method Preferences**
 ### 🏦 **Key Insights:**
@@ -74,6 +79,10 @@ The dataset was processed using **Pivot Tables**, **Charts**, and **Conditional 
 ✔ **E-wallet usage is growing**, showing customer preference for digital payments.
 ✔ **Credit card transactions are the least used**, possibly due to transaction fees or lower credit card adoption.
 ✔ **Business Strategy:** Encourage digital payment usage with discounts or cashback rewards.
+
+
+ **Here is a visualization of Payment Method:**
+![Payment method](images/Payment_Method.jpg)
 ---
 ---
 ## 📌 **Recommendations for Business Growth**
@@ -88,7 +97,7 @@ The dataset was processed using **Pivot Tables**, **Charts**, and **Conditional 
 - **GitHub**: Project documentation & sharing  
 
 ## 📸 Screenshots  
-(Upload screenshots of Excel analysis ![Dashboard](https://github.com/user-attachments/assets/cc78efe3-ffb0-4339-89d4-287da284f225)
+(Upload screenshots of Excel Dashboard ![Dashboard](images/Dashboard.jpg)
 )  
 
 ## 📩 Contact  
